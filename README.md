@@ -1,7 +1,7 @@
-# template-python
+# <my-project>
 
-![Build](https://github.com/amorim-cleison/sl-transformer/workflows/Build/badge.svg)
-![Code Quality](https://github.com/amorim-cleison/sl-transformer/workflows/Code%20Quality/badge.svg)
+![Build](https://github.com/amorim-cleison/<my-project>/workflows/Build/badge.svg)
+![Code Quality](https://github.com/amorim-cleison/<my-project>/workflows/Code%20Quality/badge.svg)
 
 Template repository for Python projects
 
