@@ -5,9 +5,12 @@
 
 Work in progress...
 
+## How to use this template
+To use this template you need first:
 - [ ] Replace all strings '`template-python`' with the name of your package/repository name
-- [ ] Once you added packages to Poetry, run `poetry update` command
+- [ ] Once you finished adding packages to Poetry (using `poetry add <package>`), run `poetry update` command
 - [ ] Implement main method in `main.py` file
+- [ ] Delete this section
 
 ## Initialization
 To initialize project and install dependencies, you need run:
