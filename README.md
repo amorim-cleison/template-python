@@ -5,8 +5,9 @@
 
 Work in progress...
 
-- [ ] Replace all strings `template-python` with the name of your package/repository name
+- [ ] Replace all strings '`template-python`' with the name of your package/repository name
 - [ ] Once you added packages to Poetry, run `poetry update` command
+- [ ] Implement main method in `main.py` file
 
 ## Initialization
 To initialize project and install dependencies, you need run:
