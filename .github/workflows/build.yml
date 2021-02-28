@@ -5,13 +5,13 @@ on:
     # paths-ignore:
     #  -
     branches: 
-      - master
+      - main
       - develop
   pull_request:
     # paths-ignore:
     #  -
     branches:
-      - '**'
+      - main
 
 jobs:
   build:
